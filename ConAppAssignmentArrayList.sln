@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAppAssignmentArrayList", "ConAppAssignmentArrayList\ConAppAssignmentArrayList.csproj", "{A87E69DC-5328-4351-8246-2141193E612D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87E69DC-5328-4351-8246-2141193E612D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87E69DC-5328-4351-8246-2141193E612D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87E69DC-5328-4351-8246-2141193E612D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87E69DC-5328-4351-8246-2141193E612D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D34CB61-1A00-4F4D-BD3B-82B3913D160D}
+	EndGlobalSection
+EndGlobal
